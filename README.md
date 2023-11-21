@@ -17,32 +17,32 @@ Explore the fantastic offers we have in store for you:
 # CWL All-In-One Access Bundle (50% OFF)
 Total Price: $3,857.00  Sale Price: $1,928.00
 Coupon code: **CWLALLONE**
-![CWL All-In-One Access (50%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/cadba555-169a-4d56-a0fe-525da31f7359)
+[![CWL All-In-One Access (50%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/cadba555-169a-4d56-a0fe-525da31f7359)](https://cyberwarfare.live)
 
 # CWL Cloud Red Team Path Bundle (40% OFF)
 Total Price: $1,897.00  Sale Price: $1,138.00
 Coupon code: **CWLCRTP**
-![CWL Cloud Red Team Path (40%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/c0d1952d-6fc8-49ff-b09d-08333e03afb3)
+[![CWL Cloud Red Team Path (40%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/c0d1952d-6fc8-49ff-b09d-08333e03afb3)](https://cyberwarfare.live)
 
 # Red Team Beginner to Advance Path Bundle (35% OFF)
 Total Price: $655.00  Sale Price: $425.00
 Coupon code: **CWLRTBAP**
-![Red Team Beginner to Advance Path (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/cd6054f4-809b-442e-844d-3f1c469402d5)
+[![Red Team Beginner to Advance Path (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/cd6054f4-809b-442e-844d-3f1c469402d5)](https://cyberwarfare.live)
 
 # Red Team On-Premise to Cloud Path Bundle (35% OFF)
 Total Price: $1846.00  Sale Price: $1199.00
 Coupon code: **CWLRTOCP**
-![Red Team On-Premise to Cloud Path (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/aa44f368-c74f-4531-bcc3-b8c9ec5e0ab0)
+[![Red Team On-Premise to Cloud Path (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/aa44f368-c74f-4531-bcc3-b8c9ec5e0ab0)](https://cyberwarfare.live)
 
 # CWL Best Selling Bundle (35% OFF) 
 Total Price: $1056.00  Sale Price: $686.00
 Coupon code: **CWLBEST**
-![CWL Best Selling Bundle (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/7fbab801-df1f-4a66-8a0b-af91227f59bd)
+[![CWL Best Selling Bundle (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/7fbab801-df1f-4a66-8a0b-af91227f59bd)](https://cyberwarfare.live)
 
 # CWL Purple Team Path Bundle (30% OFF) 
 Total Price: $406.00  Sale Price: $284.00
 Coupon code: **CWLPTP**
-![CWL Purple Team Path (30%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/f134acb7-83f1-49cf-8a4e-0798b7e34d23)
+[![CWL Purple Team Path (30%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/f134acb7-83f1-49cf-8a4e-0798b7e34d23)](https://cyberwarfare.live)
 
 
 # NOTE : CyberWarFare Labs Offer valid till 27th November 2023
