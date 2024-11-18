@@ -1,8 +1,8 @@
-# **CyberWarFare Labs Black Friday Deals 2023**
+# **CyberWarFare Labs Black Friday Deals 2024**
 
-Welcome to the CyberWarFare Labs Black Friday Deals repository for the year 2023! 🚀
+Welcome to the CyberWarFare Labs Black Friday Deals repository for the year 2024! 🚀
 
-![BLK Feature 1](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/81743df0-3dc4-4c0c-bc66-c0d2547a1f45)
+![3200x1200 Website Thumbnail 3-2](https://github.com/user-attachments/assets/60a65426-6388-4f52-86e6-5c8269d2a383)
 
 ## About
 
@@ -14,84 +14,123 @@ Explore the fantastic offers we have in store for you:
 
 **Course Discounts:** Elevate your cyber security skills with our premium courses at unbeatable prices.
 
-# CWL All-In-One Access Bundle (50% OFF)
-Total Price: $3,857.00  Sale Price: $1,928.00
-Coupon code: **CWLALLONE**
-[![CWL All-In-One Access (50%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/cadba555-169a-4d56-a0fe-525da31f7359)](https://cyberwarfare.live)
 
-# CWL Cloud Red Team Path Bundle (40% OFF)
-Total Price: $1,897.00  Sale Price: $1,138.00
-Coupon code: **CWLCRTP**
-[![CWL Cloud Red Team Path (40%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/c0d1952d-6fc8-49ff-b09d-08333e03afb3)](https://cyberwarfare.live)
+## CWL Offensive Red Team Operations Bundle (55% OFF)
+Original Price: $1,095.00 
+Black Friday Discount Price: **$537.75**  
+Coupon Code: **ATTACK55**  
 
-# Red Team Beginner to Advance Path Bundle (35% OFF)
-Total Price: $655.00  Sale Price: $425.00
-Coupon code: **CWLRTBAP**
-[![Red Team Beginner to Advance Path (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/cd6054f4-809b-442e-844d-3f1c469402d5)](https://cyberwarfare.live)
-
-# Red Team On-Premise to Cloud Path Bundle (35% OFF)
-Total Price: $1846.00  Sale Price: $1199.00
-Coupon code: **CWLRTOCP**
-[![Red Team On-Premise to Cloud Path (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/aa44f368-c74f-4531-bcc3-b8c9ec5e0ab0)](https://cyberwarfare.live)
-
-# CWL Best Selling Bundle (35% OFF) 
-Total Price: $1056.00  Sale Price: $686.00
-Coupon code: **CWLBEST**
-[![CWL Best Selling Bundle (35%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/7fbab801-df1f-4a66-8a0b-af91227f59bd)](https://cyberwarfare.live)
-
-# CWL Purple Team Path Bundle (30% OFF) 
-Total Price: $406.00  Sale Price: $284.00
-Coupon code: **CWLPTP**
-[![CWL Purple Team Path (30%)](https://github.com/RedTeamOperations/cwl-blackfriday-offers/assets/48948361/f134acb7-83f1-49cf-8a4e-0798b7e34d23)](https://cyberwarfare.live)
+[![CWL Offensive Red Team Operations Bundle (55%)](https://github.com/user-attachments/assets/2e0ed0b5-ee3b-4e80-9ff9-21c6c8fc514e)](https://cyberwarfare.live/cart/?add-to-cart=448815)
 
 
-# NOTE : CyberWarFare Labs Offer valid till 27th November 2023
+
+## Blue to Purple Operations Bundle (55% OFF)  
+Original Price: $455.00  
+Black Friday Discount Price: **$204.75**  
+Coupon Code: **BLUETOPURPLE55**  
+
+[![Blue-Purple-Bundle-1280x720](https://github.com/user-attachments/assets/c6292ff7-fde1-44d5-b88f-b25927730fa2)](https://cyberwarfare.live/cart/?add-to-cart=448819)
+
+
+
+## CWL Cloud Security Beginner to Advance Bundle (55% OFF)
+Original Price: $1,946.00  
+Black Friday Discount Price: **$875.70**  
+Coupon Code: **CLOUD55**  
+
+[![Cloud-Bundle-1280x720](https://github.com/user-attachments/assets/85a68f95-25fc-4496-8a17-c08fb96e7729)](https://cyberwarfare.live/cart/?add-to-cart=448823)
+
+
+
+## CWL Stealth & Exploitation Tactics Bundle (55% OFF)
+Original Price: $856.00  
+Black Friday Discount Price: **$385.20**  
+Coupon Code: **EXPLOIT55**  
+
+[![Evasion-Bundle-1280x720](https://github.com/user-attachments/assets/49ae55b2-ea6a-4fce-9c03-d9a9101b7009)](https://cyberwarfare.live/cart/?add-to-cart=448826)
+
+
+
+## CWL Specialized Penetration Testing Track (81% OFF)
+Original Price: $522.00  
+Black Friday Discount Price: **$99.18**  
+Coupon Code: **CWL99**  
+
+[![Ethical-Hacking-Bundle-1280x720](https://github.com/user-attachments/assets/f280e693-2e7e-4f61-b26d-60de0d13f62a)](https://cyberwarfare.live/cart/?add-to-cart=448829)
+
+
+
+## CWL Advanced CyberWarfare Bundle (%60 OFF)
+Original Price: $$4,610.00
+Black Friday Discount Price: **$1,184.00**  
+Coupon Code: **CWLALLONE**  
+ 
+[![Advance-Bundle-1280x720](https://github.com/user-attachments/assets/7b074fb7-dd3b-4468-bfe8-54a779831790)](https://cyberwarfare.live/cart/?add-to-cart=448833)
+
+
+
+# NOTE: CyberWarFare Labs Offer valid till 2th November 2024
 
 ## FAQ
 
-- **When do these sales start?** <h6> It will start around the 22nd November at 09:30 PM IST </h6>
+- **When do these sales start?**  
+  The sale will start around the **17th November** at **7PM IST**.
 
-- **When do these sales end?** <h6> Most end 27th November 2023 </h6>
+- **When do these sales end?**  
+  Sales end on **2nd Dec 2023**.
 
-- **If I purchase now, can the labs be scheduled for later?** <h6> Yes, if you purchase you will get lifetime Study Material Access & you can start immediately. The 30 Days lab time will ONLY start when you request our support team. </h6>
+- **If I purchase now, can the labs be scheduled for later?**  
+  Yes! When you purchase, you'll get lifetime access to the study materials, and you can start immediately. The **30-day lab time** will ONLY start once you request it from our support team.
 
-- **What are the lab expiry dates?** <h6> Study Material access will be life-time however, Labs & Exams can be requested anytime within 2 years of course purchase. </h6>
+- **What are the lab expiry dates?**  
+  Study material access will be lifetime; however, labs & exams can be requested anytime within **2 years** of course purchase.
 
-- **What is included in the Black Friday bundle purchase?** <h6> Enjoy lifetime access to study materials, 30 Days Lab Access & 2 Exam Attempts. </h6> 
+- **What is included in the Black Friday bundle purchase?**  
+  Enjoy lifetime access to study materials, **30 Days Lab Access**, and **2 Exam Attempts**.
 
-- **Certifications which do NOT have lab access?** <h6> CRT-ID, CPIA, CRT-COI, CWI-RTO, C3SA, CPTAv2 Community Edition.</h6>
+- **Certifications which do NOT have lab access?**  
+  CRT-ID, CPIA, CRT-COI, CWI-RTO, C3SA, CPTAv2 Community Edition.
 
-- **Certifications which do NOT have accredible badges?** <h6> For C3SA, CPTA v2 Community Edition we ONLY provide CWL digital certificates & NOT accredible badges.</h6>
+- **Certifications which do NOT have Accredible badges?**  
+  For **C3SA** and **CPTA v2 Community Edition**, we ONLY provide CWL digital certificates & NOT Accredible badges.
 
-- **Interested in a custom bundle?** <h6> For any specific requirements, connect to us via chatbot or email at support@cyberwarfare.live :) </h6>
+- **Interested in a custom bundle?**  
+  For any specific requirements, connect with us via chatbot or email at [support@cyberwarfare.live](mailto:support@cyberwarfare.live).
 
-- **Offers for Group / Team Enrollments?** <h6> For Group / Team enrollments, we can provide additional discounts. Please reach out to us via chatbot or email at support@cyberwarfare.live :) </h6>
+- **Offers for Group / Team Enrollments?**  
+  For Group / Team enrollments, we can provide **additional discounts**. Please reach out via chatbot or email at [support@cyberwarfare.live](mailto:support@cyberwarfare.live).
 
-- **What will I receive after purchase?** <h6> You will receive 2 emails, first for payment confirmation receipt & second for portal login credentials. </h6>
+- **What will I receive after purchase?**  
+  You will receive **2 emails**: one for payment confirmation and another for portal login credentials.
 
-- **I didn’t receive any email containing login credentials?** <h6> Wait for at least 30 mins to 1 hour & check your spam folder. In case you didn’t receive, Email us at support@cyberwarfare.live </h6>
+- **I didn’t receive any email containing login credentials?**  
+  Wait for at least **30 minutes to 1 hour** and check your spam folder. If you still haven’t received it, email us at [support@cyberwarfare.live](mailto:support@cyberwarfare.live).
 
-- **CWL Website Sign-up / Sign-in or Registration Option?** <h6> Users will receive login credentials ONLY after course purchase via email. After that they can login at “https://portal.cyberwarfare.live/login” </h6>
+- **CWL Website Sign-up / Sign-in or Registration Option?**  
+  Users will receive login credentials ONLY after course purchase via email. After that, you can log in at [portal.cyberwarfare.live/login](https://portal.cyberwarfare.live/login).
 
-- **Facing payment issues?** <h6> We ONLY use Stripe for payment gateway. Please reach out to us via chatbot or email at finance@cyberwarfare.live if you face any payment related issues. </h6>
+- **Facing payment issues?**  
+  We ONLY use Stripe for the payment gateway. Please reach out via chatbot or email at [finance@cyberwarfare.live](mailto:finance@cyberwarfare.live) if you face any payment-related issues.
 
-- **Is there a refund policy?** <h6> Please check the course syllabus before making any payment. We adhere to a strict NO refund policy.</h6> 
+- **Is there a refund policy?**  
+  Please check the course syllabus before making any payment. We adhere to a strict **NO refund** policy.
 
-- **Do you provide technical support?** <h6> Yes, we offer comprehensive technical support for all courses.</h6>
+- **Do you provide technical support?**  
+  Yes, we offer comprehensive technical support for all courses.
 
 ## How to Use
 
 **Follow these steps to make the most of our Black Friday Deals:**
 
-<h6>Explore: Browse through the different sections to discover exciting deals.</h6>
-<h6>Choose: Select the courses or bundles that align with your learning goals.</h6>
-<h6>Redeem: Use the provided discount codes during the checkout process to unlock special pricing.</h6>
+1. **Explore:** Browse through the different sections to discover exciting deals.
+2. **Choose:** Select the courses or bundles that align with your learning goals.
+3. **Redeem:** Use the provided discount codes during checkout to unlock special pricing.
 
 ## Sections
 
-<h6> Course Discounts: Explore individual courses with substantial discounts.</h6>
+- **Course Discounts:** Explore individual courses with substantial discounts.
+- **Certification Bundles:** Discover bundled offers that combine multiple courses for a comprehensive learning experience.
 
-<h6> Certification Bundles: Discover bundled offers that combine multiple courses for a comprehensive learning experience.</h6>
 
 ## Reviews
 
