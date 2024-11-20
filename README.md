@@ -1,6 +1,6 @@
 # **CyberWarFare Labs Black Friday Deals 2024**
 
-Welcome to the CyberWarFare Labs Black Friday Deals repository for the year 2024! 🚀
+Welcome to the CyberWarFare Labs Black Friday Deals repository for the year 2024! 🚀 Avail deals here : https://cyberwarfare.live/blackfriday/
 
 ![3200x1200 Website Thumbnail 3-2](https://github.com/user-attachments/assets/60a65426-6388-4f52-86e6-5c8269d2a383)
 
@@ -10,7 +10,7 @@ This repository is your one-stop destination for information about CyberWarFare 
 
 ## Deals Preview
 
-Explore the fantastic offers we have in store for you:
+Explore the fantastic offers we have in store for you: Avail deals here : https://cyberwarfare.live/blackfriday/
 
 **Course Discounts:** Elevate your cyber security skills with our premium courses at unbeatable prices.
 
@@ -67,7 +67,7 @@ Coupon Code: **CWLALLONE**
  
 [![Advance-Bundle-1280x720](https://github.com/user-attachments/assets/7b074fb7-dd3b-4468-bfe8-54a779831790)](https://cyberwarfare.live/cart/?add-to-cart=448833)
 
-
+## Avail CWL Black Friday Deals here : https://cyberwarfare.live/blackfriday/
 
 # NOTE: CyberWarFare Labs Offer valid till 2th November 2024
 
@@ -77,7 +77,7 @@ Coupon Code: **CWLALLONE**
   The sale will start around the **17th November** at **7PM IST**.
 
 - **When do these sales end?**  
-  Sales end on **2nd Dec 2023**.
+  Sales end on **2nd Dec 2024**.
 
 - **If I purchase now, can the labs be scheduled for later?**  
   Yes! When you purchase, you'll get lifetime access to the study materials, and you can start immediately. The **30-day lab time** will ONLY start once you request it from our support team.
