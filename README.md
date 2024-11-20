@@ -16,7 +16,7 @@ Explore the fantastic offers we have in store for you:
 
 
 ## CWL Offensive Red Team Operations Bundle (55% OFF)
-Original Price: $1,095.00 
+Original Price: $1,095.00  
 Black Friday Discount Price: **$537.75**  
 Coupon Code: **ATTACK55**  
 
@@ -60,8 +60,8 @@ Coupon Code: **CWL99**
 
 
 
-## CWL Advanced CyberWarfare Bundle (%60 OFF)
-Original Price: $$4,610.00
+## CWL Advanced CyberWarfare Bundle (%60 OFF)  
+Original Price: $4,610.00  
 Black Friday Discount Price: **$1,184.00**  
 Coupon Code: **CWLALLONE**  
  
